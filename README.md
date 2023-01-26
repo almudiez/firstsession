@@ -1,3 +1,7 @@
 # firstsession
-This is what we did in class
-See print examples
+This is what we did in class<br>
+Some print examples
+- this
+- is
+- a
+- list
